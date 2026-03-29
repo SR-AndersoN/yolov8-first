@@ -25,6 +25,7 @@ from ultralytics.nn.modules import (
     SPP,
     SPPELAN,
     SPPF,
+    CBAM,
     A2C2f,
     AConv,
     ADown,
