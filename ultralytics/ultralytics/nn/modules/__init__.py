@@ -107,6 +107,7 @@ from .transformer import (
 )
 
 __all__ = (
+    "CBAM",
     "AIFI",
     "C1",
     "C2",
